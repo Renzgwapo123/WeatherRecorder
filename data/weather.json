@@ -1,0 +1,16 @@
+{
+    "2025-02-04": {
+        "temperature": 40.0,
+        "humidity": 5.0,
+        "uv_index": 11.0,
+        "rainfall": 14.0,
+        "wind_Speed": 17.0
+    },
+    "2025-03-04": {
+        "temperature": 30.0,
+        "humidity": 10.0,
+        "uv_index": 15.0,
+        "rainfall": 9.0,
+        "wind_Speed": 3.0
+    }
+}
